@@ -1,13 +1,13 @@
 package com.tws.refactoring;
 
-public class Driver {
+class Driver {
     private final int age;
 
-    public Driver(int age) {
+    Driver(int age) {
         this.age = age;
     }
 
-    public int getAge() {
+    int getAge() {
         return age;
     }
 }
