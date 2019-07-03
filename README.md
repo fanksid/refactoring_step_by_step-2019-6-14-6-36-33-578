@@ -2,3 +2,5 @@
 Add test
 
 Inline
+
+Make age attribute protected
